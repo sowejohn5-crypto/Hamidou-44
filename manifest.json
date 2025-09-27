@@ -1,0 +1,20 @@
+{
+  "name": "The Journey to Janneh",
+  "short_name": "Janneh",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a6f6f",
+  "icons": [
+    {
+      "src": "IMG-20250925-WA0042_3_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "IMG-20250925-WA0042_2_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
